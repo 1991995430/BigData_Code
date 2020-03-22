@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd8d916-0c92-4bf0-b04a-70269e3dbcda" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="X:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="X:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7VUiQJmrM1mhIOTLTXqpOENsg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/项目文件/IdeaProjects/oamadsd" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.JdbcThread">
+    <configuration name="JdbcThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ss.Test.JdbcThread" />
+      <module name="FirstHadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ss.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ss.Test.Test1" />
+      <module name="FirstHadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ss.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hdfs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ss.Test.hdfs" />
+      <module name="FirstHadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ss.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hdfs.testAddFileToHdfs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstHadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ss.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ss.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.ss.Test.hdfs" />
+      <option name="METHOD_NAME" value="testAddFileToHdfs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hdfs.testDownloadFileToLocal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FirstHadoop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ss.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ss.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.ss.Test.hdfs" />
+      <option name="METHOD_NAME" value="testDownloadFileToLocal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JdbcThread" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="JUnit.hdfs.testDownloadFileToLocal" />
+        <item itemvalue="JUnit.hdfs.testAddFileToHdfs" />
+        <item itemvalue="Application.hdfs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd8d916-0c92-4bf0-b04a-70269e3dbcda" name="Default Changelist" comment="" />
+      <created>1584190136804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584190136804</updated>
+      <workItem from="1584190140088" duration="5628000" />
+      <workItem from="1584240600095" duration="13362000" />
+      <workItem from="1584536853455" duration="2521000" />
+      <workItem from="1584700055596" duration="197000" />
+      <workItem from="1584765507365" duration="7533000" />
+      <workItem from="1584868299118" duration="1332000" />
+      <workItem from="1584871121199" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Notifications" timestamp="1584870956391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584870956391" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1584194119681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584194119681" />
+    <state x="680" y="283" key="FileChooserDialogImpl" timestamp="1584542295095">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584542295095" />
+    <state width="938" height="270" key="GridCell.Tab.0.bottom" timestamp="1584870959046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1584772666464" />
+    <state width="938" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584870959046" />
+    <state width="938" height="270" key="GridCell.Tab.0.center" timestamp="1584870959045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1584772666464" />
+    <state width="938" height="270" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584870959045" />
+    <state width="938" height="270" key="GridCell.Tab.0.left" timestamp="1584870959045">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1584772666463" />
+    <state width="938" height="270" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584870959045" />
+    <state width="938" height="270" key="GridCell.Tab.0.right" timestamp="1584870959046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1584772666464" />
+    <state width="938" height="270" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584870959046" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1584283268798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584283268798" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1584283268797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584283268797" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1584283268797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584283268797" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1584283268798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584283268798" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1584243406682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584243406682" />
+    <state x="816" y="205" key="SettingsEditor" timestamp="1584868343395">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="205" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584868343395" />
+    <state x="1089" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1584199858730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1089" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584199858730" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+  </component>
+</project>
