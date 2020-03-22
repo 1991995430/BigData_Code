@@ -183,18 +183,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584870956391" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584875102039">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584875102039" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1584194119681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584194119681" />
-    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1584873790343">
+    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1584875044016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584873790343" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1584875039152">
+    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584875044016" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1584875140024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584875039152" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584875140024" />
     <state x="680" y="283" key="FileChooserDialogImpl" timestamp="1584542295095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,10 +247,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="205" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584868343395" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584873813212">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584875052367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584873813212" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584875052367" />
+    <state x="644" y="311" key="git4idea.merge.GitPullDialog" timestamp="1584875066772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584875066772" />
     <state x="1089" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1584199858730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
