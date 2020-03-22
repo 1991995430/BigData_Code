@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cd8d916-0c92-4bf0-b04a-70269e3dbcda" name="Default Changelist" comment="" />
+    <list default="true" id="8cd8d916-0c92-4bf0-b04a-70269e3dbcda" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="X:/apache-maven-3.6.1" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1" />
         <option name="userSettingsFile" value="X:\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -157,11 +159,24 @@
       <workItem from="1584765507365" duration="7533000" />
       <workItem from="1584868299118" duration="1332000" />
       <workItem from="1584871121199" duration="872000" />
+      <workItem from="1584873639483" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="DTS:NA&#10;Commit:shangsong&#10;Describe:配置文件">
+      <created>1584873791545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584873791545</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DTS:NA&#10;Commit:shangsong&#10;Describe:配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="DTS:NA&#10;Commit:shangsong&#10;Describe:配置文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Notifications" timestamp="1584870956391">
@@ -172,6 +187,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584194119681" />
+    <state x="560" y="114" key="CommitChangelistDialog2" timestamp="1584873790343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584873790343" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1584875039152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584875039152" />
     <state x="680" y="283" key="FileChooserDialogImpl" timestamp="1584542295095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -220,6 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="816" y="205" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584868343395" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1584873813212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584873813212" />
     <state x="1089" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1584199858730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
