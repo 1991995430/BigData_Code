@@ -50,7 +50,7 @@ public class hdfs {
         // 要上传的文件所在的本地路径
         Path src = new Path("X:/s2.txt");
         // 要上传到hdfs的目标路径
-        Path dst = new Path("/tmp/ss");
+        Path dst = new Path("/tmp/ss.java");
         fs.copyFromLocalFile(src, dst);
 
         fs.close();
@@ -61,7 +61,7 @@ public class hdfs {
      */
     @Test
     public void testDownloadFileToLocal() throws IllegalArgumentException, IOException {
-        fs.copyToLocalFile(new Path("/tmp/ss/sms.txt"), new Path("X:/"));
+        fs.copyToLocalFile(new Path("/tmp/ss.java/sms.txt"), new Path("X:/"));
         fs.close();
     }
 

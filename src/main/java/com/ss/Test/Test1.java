@@ -23,7 +23,7 @@ public class Test1 {
 
             System.out.println(conf.toString());
 
-            fs.copyFromLocalFile(new Path("X:/s1.txt"),new Path("hdfs://192.168.137.128:8020/tmp/ss"));
+            fs.copyFromLocalFile(new Path("X:/s1.txt"),new Path("hdfs://192.168.137.128:8020/tmp/ss.java"));
 
             System.out.println("文件上传至hadoop成功！");
         } catch (IOException e) {
